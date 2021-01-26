@@ -80,11 +80,11 @@
 			<table class="table table-hover tb-width center">
 	            <tr>
 	                <th width="20%">제작자</th>
-	                <td width="80%">최형철</td>
+	                <td width="80%">김주성</td>
 	            </tr>
 	            <tr>
 	            	<th>이메일</th>
-	            	<td>chkc78@naver.com</td>
+	            	<td>wntjd9425@gmail.com</td>
 	            </tr>
 	            <tr>
 	                <th>프로젝트 기간</th>
@@ -96,7 +96,7 @@
 	            </tr>
 	            <tr>
 	              	<th>상세설명</th>
-	              	<td><a href="https://github.com/pad0108/employees">https://github.com/pad0108/employees</a></td>
+	              	<td><a href="https://github.com/jooseongkim/employees">https://github.com/jooseongkim/employees</a></td>
 	            </tr>
 			</table>
 		</div>

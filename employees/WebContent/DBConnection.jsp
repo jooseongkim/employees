@@ -9,5 +9,5 @@
 	
 	// 연결정보를 담은 변수 선언, Maria DB에 접근할때 쓰는 프로토콜
 	// MariaDB 접속 (주소+포트번호+DB이름, DB계정ID, DB계정PW)
-	Connection conn = DriverManager.getConnection("jdbc:mariadb://localhost/employees","root","java1004");
+	Connection conn = DriverManager.getConnection("jdbc:mariadb://juicekim.kro.kr/employees","root","java1004");
 %>
